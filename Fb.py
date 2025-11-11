@@ -1,1 +1,1 @@
-import fb_auto.c
+import fb_auto
